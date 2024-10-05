@@ -1,0 +1,41 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  color: rgb(0, 255, 72);
+  text-align: center;
+
+}
+
+p {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  color: rgb(0, 255, 72);
+  text-align: center;
+
+}
+
+button {
+
+  position: absolute;
+  top: 10vh;
+  left: 45vw;
+  transform: translate(-10%, -10%);
+  width: 10vw;
+  height: 2vh;
+  border: none;
+  background-color: rgb(30, 255, 0);
+  color: black;
+}
+
+body {
+  background-image: url('mr.robot.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
